@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "アルジャーノン",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-18T15:44:12.311820Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アルジャーノン",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_アルジャーノン_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アルジャーノン",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_アルジャーノン_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アルジャーノン",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/03_アルジャーノン_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アルジャーノン - Algernon",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/04_アルジャーノン_-_Algernon_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アルジャーノン",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/05_アルジャーノン_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アルジャーノン - Algernon",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/06_アルジャーノン_-_Algernon_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アルジャーノン",
+      "artist": "ヨルシカ Yorushika",
+      "has_synced": true,
+      "path": "select/07_アルジャーノン_ヨルシカ_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アルジャーノン",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_アルジャーノン_ヨルシカ.txt"
+    }
+  ]
+}
