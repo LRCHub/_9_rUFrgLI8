@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "アルジャーノン",
   "base_artist": "ヨルシカ",
-  "createdAt": "2025-12-18T15:44:12.311820Z",
+  "createdAt": "2026-03-26T04:36:15.175227Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -67,6 +67,15 @@
       "artist": "ヨルシカ",
       "has_synced": false,
       "path": "select/pl_01_アルジャーノン_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "アルジャーノン",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_01_アルジャーノン_ヨルシカ.lrc",
+      "repo_name": "_9_rUFrgLI8"
     }
   ]
 }
